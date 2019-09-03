@@ -2,7 +2,7 @@
 
 ## [Docker 安装](docker-an-zhuang.md)
 
-
+{% file src="../.gitbook/assets/docker\_practice.epub" %}
 
 ## [Docker 之搭建个人wordpress网站](docker-da-jian-ge-ren-wordpress-wang-zhan.md)
 
