@@ -52,5 +52,5 @@ docker-compose up -d
 
 启动配置SSR连接,用国内服务器的公网ip替换vps的ip，如图
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 

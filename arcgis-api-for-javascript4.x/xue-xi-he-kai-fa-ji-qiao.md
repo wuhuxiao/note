@@ -1,4 +1,4 @@
-# 学习和开发技巧
+# 学习技巧
 
 官网下载所有4.x版本的示例代码
 
@@ -6,7 +6,9 @@
 
 解压后在VScode中打开使用搜索功能，快速找到引用
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
-博客
+博客推荐
+
+{% embed url="https://www.cnblogs.com/onsummer/tag/ArcGIS%20API%20for%20Javascript/default.html?page=3" %}
 
