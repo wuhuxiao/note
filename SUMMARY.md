@@ -20,6 +20,7 @@
   * [Docker使用Nginx代理转发SSR](docker/docker-shi-yong-nginx-dai-li-zhuan-fa-ssr.md)
   * [Docker搭建个人wordpress网站](docker/docker-da-jian-ge-ren-wordpress-wang-zhan.md)
   * [Docker安装](docker/docker-an-zhuang.md)
+* [Nginx](nginx.md)
 * [小技巧](untitled.md)
 
 ## Docker <a id="docker-1"></a>
