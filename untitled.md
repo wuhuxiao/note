@@ -4,7 +4,7 @@
 
 安装起点器
 
-{% file src=".gitbook/assets/apowersoft-online-launcher.exe" %}
+".gitbook/assets/apowersoft-online-launcher.exe"
 
 以下代码保存为html文件，打开即可运行录屏起点器
 
