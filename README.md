@@ -8,7 +8,7 @@
 
 ## [Docker](docker/)
 
-## [装B小技巧](untitled.md)
+## [小技巧](untitled.md)
 
 
 
