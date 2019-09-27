@@ -20,7 +20,8 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm install
-        npm run build --if-present
-        npm test
+        npm install -g gitbook-cli
+        gitbook init
+        gitbook serve .
       env:
         CI: true
