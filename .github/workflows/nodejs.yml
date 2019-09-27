@@ -23,6 +23,6 @@ jobs:
         npm install
         npm install -g gitbook-cli
         gitbook init
-        gitbook serve .
+        gitbook build .
       env:
         CI: true
