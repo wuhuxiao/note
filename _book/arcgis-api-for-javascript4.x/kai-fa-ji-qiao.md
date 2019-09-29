@@ -4,7 +4,7 @@
 
 在调试时，在console控制台输入map等即可访问当前页面中地图的属性。
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 
 

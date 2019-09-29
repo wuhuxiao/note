@@ -2,7 +2,7 @@
 
 官网下载所有4.x版本的示例代码
 
-"https://developers.arcgis.com/javascript/latest/sample-code/source-code.zip"
+"[https://developers.arcgis.com/javascript/latest/sample-code/source-code.zip](https://developers.arcgis.com/javascript/latest/sample-code/source-code.zip)"
 
 解压后在VScode中打开使用搜索功能，快速找到引用
 
@@ -10,5 +10,5 @@
 
 博客推荐
 
-"https://www.cnblogs.com/onsummer/tag/ArcGIS%20API%20for%20Javascript/default.html?page=3"
+"[https://www.cnblogs.com/onsummer/tag/ArcGIS API for Javascript/default.html?page=3](https://www.cnblogs.com/onsummer/tag/ArcGIS%20API%20for%20Javascript/default.html?page=3)"
 

@@ -12,14 +12,14 @@ Windows 10 家庭版安装
 
    搜索专业版激活码，在电脑设置-关于电脑中升级
 
-    ![](../.gitbook/assets/image%20%285%29.png) 
+    ![](../.gitbook/assets/image%20%288%29.png) 
 
 2. 安装[Docker for Windows Installer.exe](https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe)
 3. 配置启动Hyper-V服务
 
    在电脑的服务配置中，启用服务
 
-   ![](../.gitbook/assets/image%20%286%29.png) 
+   ![](../.gitbook/assets/image%20%2811%29.png) 
 
 4. 使用cmd命令启动虚拟机服务
 
