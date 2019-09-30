@@ -18,16 +18,10 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: npm install, build, and test
-      run: |
-        npm install
-        npm install -g gitbook-cli
-      env:
-        CI: true
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@master
       env:
         ACCESS_TOKEN: ${{ secrets.HUAWEI_CLOUD }}
         BRANCH: master
         FOLDER: build
-        BUILD_SCRIPT: gitbook build .
+        BUILD_SCRIPT: npm install && npm install -g gitbook-cli && gitbook build .
