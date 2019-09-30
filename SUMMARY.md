@@ -23,4 +23,5 @@
 * [Nginx](nginx.md)
 * [小技巧](untitled.md)
 * [CI/CD](ci-cd.md)
+* [test](test.md)
 
