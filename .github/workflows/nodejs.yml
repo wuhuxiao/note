@@ -1,6 +1,9 @@
 name: Node CI
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   build:
@@ -22,6 +25,7 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@master
       env:
         ACCESS_TOKEN: ${{ secrets.HUAWEI_CLOUD }}
-        BRANCH: master
-        FOLDER: build
+        BASE_BRANCH: master # The branch the action should deploy from.
+        BRANCH: deploy-pages # The branch the action should deploy to.
+        FOLDER: book
         BUILD_SCRIPT: npm install && npm install -g gitbook-cli && gitbook build .
